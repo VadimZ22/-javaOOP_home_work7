@@ -1,0 +1,40 @@
+
+03/15/23,00,23, Complex number  {} , {}i created!
+03/15/23,00,24, Complex number  1 , 2i created!
+03/16/23,00,31, Complex number  12 , 13i created!
+03/16/23,00,31, Complex sum (1+2j) + (2+1j) = (3+3j)
+03/16/23,00,42, Complex number  12 , 13i created!
+03/16/23,00,42, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,42, Complex number  12 , 13i created!
+03/16/23,00,42, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,44, Complex number  12 , 13i created!
+03/16/23,00,44, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,44, Ratio sum 1 + 2 = 3
+03/16/23,00,44, Complex number  12 , 13i created!
+03/16/23,00,44, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,44, Ratio sum 1 + 2 = 3
+03/16/23,00,44, Complex number  12 , 13i created!
+03/16/23,00,44, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,44, Ratio sum 1 + 2 = 3
+03/16/23,00,48, Complex sum 1 + 2 = (3+0j)
+03/16/23,00,48, Ratio sum 1 + 2 = 3
+03/16/23,22,51, Complex sum 2 + 3 = (5+0j)
+03/16/23,22,54, Complex sum 2 + 3 = (5+0j)
+03/16/23,22,55, Complex sum 12 + 12 = (24+0j)
+03/16/23,22,57, Complex sum 1 + 1 = (2+0j)
+03/16/23,23,10, Complex sum 12 + 113 = (125+0j)
+03/16/23,23,10, Complex sum 12 + 13 = (25+0j)
+03/16/23,23,15, Complex sum 12 + 13 = (25+0j)
+03/16/23,23,16, Complex sum 12 + 13 = (25+0j)
+03/16/23,23,31, Ratio sum 3 + 4 = 34
+03/16/23,23,32, Ratio sum 2 + 3 = 23
+03/16/23,23,38, Ratio sum 1 + 2 = 3.0
+03/16/23,23,40, Ratio sum 1 + 2 = 3.0
+03/16/23,23,40, Ratio sum 1 + 2 = 3.0
+03/16/23,23,42, Complex sum 1.0 + 2.0 = (3+0j)
+03/16/23,23,43, Complex sum 1.0 + 2.0 = (3+0j)
+03/16/23,23,48, Ratio sum 1 + 2 = 3.0
+03/16/23,23,49, Complex sum 12+3j + 9-1j = (21+2j)
+03/16/23,23,50, Complex mult 1 * 2 = (2+0j)
+03/16/23,23,58, Complex div 12 / 13 = (0.9230769230769231+0j)
+03/16/23,23,59, Ratio dif 6 - 543 = -537.0
